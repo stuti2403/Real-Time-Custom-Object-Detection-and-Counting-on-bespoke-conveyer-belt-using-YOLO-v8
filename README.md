@@ -38,4 +38,8 @@ To count objects, run the file objdet.py and start the conveyer belt. The catego
 
 
 
+https://github.com/stuti2403/Real-Time-Custom-Object-Detection-and-Counting-on-bespoke-conveyer-belt-using-YOLO-v8/assets/72308729/850f9d31-fe13-4fae-a779-5e1ecac44567
+
+
+
 
